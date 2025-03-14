@@ -1,6 +1,5 @@
 # Blood Pressure Monitoring System
 
-![Project Banner](https://via.placeholder.com/1200x400?text=Blood+Pressure+Monitoring+System)
 
 ## Overview
 
@@ -86,7 +85,7 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for m
 
 For questions or support, reach out via:
 - **Email**: [harish.hema04@gmail.com](mailto:harish.hema04@gmail.com)
-- **GitHub Issues**: [Open an issue](https://github.com/your-repo/issues)
+- **GitHub Issues**: [Open an issue](https://github.com/Harish-D25/Blood-Pressure-Monitoring-System/issues)
 
 ---
 
