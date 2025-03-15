@@ -77,17 +77,7 @@ For deployment, we recommend using [Netlify](https://www.netlify.com/) or [Verce
 
 Contributions are welcome! Feel free to submit a pull request or open an issue if you find any bugs or have suggestions for improvements.
 
-## 📄 License
 
-This project is licensed under the **MIT License**. See the `LICENSE` file for more details.
-
-## 📞 Contact
-
-For questions or support, reach out via:
-- **Email**: [harish.hema04@gmail.com](mailto:harish.hema04@gmail.com)
-- **GitHub Issues**: [Open an issue](https://github.com/Harish-D25/Blood-Pressure-Monitoring-System/issues)
-
----
 
 ## 😘Screen Shots💕
 ![image](https://github.com/user-attachments/assets/730fd006-b29c-4c99-8518-7b599d6eba80)
@@ -108,7 +98,17 @@ For questions or support, reach out via:
 
 
 
+## 📄 License
 
+This project is licensed under the **MIT License**. See the `LICENSE` file for more details.
+
+## 📞 Contact
+
+For questions or support, reach out via:
+- **Email**: [harish.hema04@gmail.com](mailto:harish.hema04@gmail.com)
+- **GitHub Issues**: [Open an issue](https://github.com/Harish-D25/Blood-Pressure-Monitoring-System/issues)
+
+---
 
 
 
